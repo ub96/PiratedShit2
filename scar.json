@@ -156,5 +156,15 @@
 		"description": "A non-jailbreak and slower version of UTM.",
 		"bundleID": "com.rileytestut.utmse"
 
+
+	}, {
+		"name": "Cowabunga",
+		"version": "6",
+		"icon": "https://raw.githubusercontent.com/ub96/PiratedShit2/main/Cowabunga.png",
+		"down": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/584823283/4cdf0537-ac7b-4796-b812-b8e21d922e2b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230122T071925Z&X-Amz-Expires=300&X-Amz-Signature=ae86cd6abe782236958fb431cdaacefb06eae218aadb94fa5f5c4a19a16dfd85&X-Amz-SignedHeaders=host&actor_id=113331090&key_id=0&repo_id=584823283&response-content-disposition=attachment%3B%20filename%3DCowabunga.ipa&response-content-type=application%2Foctet-stream",
+		"category": "DirtyCowBug",
+		"description": "All-in one tweaking app based off of dirty cow bug",
+		"bundleID": "com.leminlimez.cowabunga"
+
 	}]
 }

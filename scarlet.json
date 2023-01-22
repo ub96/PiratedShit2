@@ -28,7 +28,7 @@
 		"name": "iTorrent",
 		"version": "1",
 		"icon": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
-		"down": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/53600/data",
+		"down": "https://dl.dropboxusercontent.com/s/y7gz65odo5104rm/iTorrent_v1.8.4-dev.3.ipa?dl=0",
 		"category": "Tweaked Apps"
 		"description": "Torrent client for iOS 9.3+",
 		"bundleID": "com.xitrix.itorrent"

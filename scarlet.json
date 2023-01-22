@@ -10,7 +10,7 @@
 		"down": "https://github.com/utmapp/UTM/releases/download/v4.1.5/UTM.SE.ipa",
 		"category": "Emulators",
 		"description": "A non-jailbreak and slower version of UTM.",
-		"bundleID": "com.rileytestut.utmse"
+		"bundleID": "com.osy.utmse"
 
 
 	}, {
@@ -21,6 +21,15 @@
 		"category": "Tweaked Apps",
 		"description": "Torrent client for iOS 9.2+",
 		"bundleID": "com.gayscarlet.Itorrent"
+
+	}, {
+		"name": "Clip",
+		"version": "1",
+		"icon": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+		"down": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
+		"category": "Tweaked Apps",
+		"description": "Clipboard Manager for iOS 13+",
+		"bundleID": "com.rileytestut.Clip"
 
 	}]
 }

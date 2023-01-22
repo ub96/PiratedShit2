@@ -149,12 +149,12 @@
 
 	}, {
 		"name": "UTM SE",
-		"version": "1",
-		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
+		"version": "4",
+		"icon": "https://getutm.app/assets/appicon.png",
 		"down": "https://github.com/utmapp/UTM/releases/download/v4.1.5/UTM.SE.ipa",
 		"category": "Emulators",
-		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
-		"bundleID": "com.ianclawson.DeltaPacEdition"
+		"description": "A non-jailbreak and slower version of UTM.",
+		"bundleID": "com.rileytestut.utmse"
 
 	}]
 }

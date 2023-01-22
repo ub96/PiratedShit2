@@ -79,8 +79,8 @@
 	}, {
 		"name": "Duolingo++",
 		"version": "6.2.0",
-		"icon": "https://images.genius.com/ee415bb2c40ac06f18bc29248c065b8d.800x800x1.jpg",
-		"down": "https://i.imgur.com/xTmgUgF.png",
+		"icon": "https://i.imgur.com/xTmgUgF.png",
+		"down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Duolingo++.ipa",
 		"category": "Tweaked Apps",
 		"description": "Modded version of duolingo",
 		"bundleID": "com.duolingo.DuolingoMobile"

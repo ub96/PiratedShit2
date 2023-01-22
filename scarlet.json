@@ -60,12 +60,12 @@
 
 	}, {
 		"name": "Cheyote",
-		"version": "1",
-		"icon": "https://i.imgur.com/JP0Fncv.png",
-		"down": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+		"version": "1.0",
+		"icon": "https://taimienphi.vn/tmp/cf/icon/cheyote-jailbreak.jpg",
+		"down": "http://cheyote.io/assets/IPA/Cheyote.ipa",
 		"category": "Emulators",
 		"description": "Play PSP games on any iDevice in full HD",
-		"bundleID": "org.ppsspp.ppsspp"
+		"bundleID": "org.coolstar.Cheyote"
 
 	}]
 }

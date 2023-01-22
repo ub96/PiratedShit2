@@ -85,16 +85,6 @@
 			]
 		},
 		{
-
-	}, {
-		"name": "Delta iPac",
-		"version": "1",
-		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
-		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
-		"category": "Jailbreaks",
-		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
-		"bundleID": "com.ianclawson.DeltaPacEdition"
-
 			"name": "Odyssey",
 			"version": "1.4.2",
 			"icon": "https://theodyssey.dev/assets/images/icon.png",

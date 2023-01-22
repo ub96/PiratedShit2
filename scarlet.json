@@ -31,5 +31,14 @@
 		"description": "Clipboard Manager for iOS 13+",
 		"bundleID": "com.rileytestut.Clip"
 
+	}, {
+		"name": "PPSSPP",
+		"version": "1",
+		"icon": "https://i.imgur.com/JP0Fncv.png",
+		"down": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+		"category": "Emulators",
+		"description": "Play PSP games on any iDevice in full HD",
+		"bundleID": "org.ppsspp.ppsspp"
+
 	}]
 }

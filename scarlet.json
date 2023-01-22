@@ -40,5 +40,32 @@
 		"description": "Play PSP games on any iDevice in full HD",
 		"bundleID": "org.ppsspp.ppsspp"
 
+	}, {
+		"name": "Altstore",
+		"version": "1.5.1",
+		"icon": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+		"down": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
+		"category": "Tweaked Apps",
+		"description": "Application for self-signing",
+		"bundleID": "com.rileytestut.AltStore"
+
+	}, {
+		"name": "Trollinstaller",
+		"version": "1",
+		"icon": "https://i.imgur.com/JP0Fncv.png",
+		"down": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+		"category": "Emulators",
+		"description": "Play PSP games on any iDevice in full HD",
+		"bundleID": "org.ppsspp.ppsspp"
+
+	}, {
+		"name": "Cheyote",
+		"version": "1",
+		"icon": "https://i.imgur.com/JP0Fncv.png",
+		"down": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+		"category": "Emulators",
+		"description": "Play PSP games on any iDevice in full HD",
+		"bundleID": "org.ppsspp.ppsspp"
+
 	}]
 }

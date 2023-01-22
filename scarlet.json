@@ -1,10 +1,9 @@
 {
 	"META": {
-		"repoName": "Gay Repository",
+		"repoName": "Scarlet Gay",
 		"repoIcon": "https://openseauserdata.com/files/3ffa7249ab8bdc6d4935ba03930aeca1.png"
 	},
 	"Tweaked": [{
-
 	}, {
 		"name": "UTM SE",
 		"version": "4",
@@ -23,15 +22,6 @@
 		"category": "Jailbreaks",
 		"description": "All-in one tweaking app based off of dirty cow bug",
 		"bundleID": "com.leminlimez.cowabunga"
-
-	}, {
-		"name": "iTorrent",
-		"version": "1",
-		"icon": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
-		"down": "https://dl.dropboxusercontent.com/s/y7gz65odo5104rm/iTorrent_v1.8.4-dev.3.ipa?dl=0",
-		"category": "Tweaked Apps"
-		"description": "Torrent client for iOS 9.3+",
-		"bundleID": "com.xitrix.itorrent"
 
 	}]
 }

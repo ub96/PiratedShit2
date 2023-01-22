@@ -53,7 +53,7 @@
 		"name": "Trollinstaller",
 		"version": "1",
 		"icon": "https://pbs.twimg.com/media/FcezX4OX0AILqkL.jpg",
-		"down": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/531976789/786afe90-f28e-475a-9cd8-e63a2a7b30a2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230122T191425Z&X-Amz-Expires=300&X-Amz-Signature=23c2d0285691ee56fef6dc2bc608f531999aed65faf6ccb25ced572142c74702&X-Amz-SignedHeaders=host&actor_id=113331090&key_id=0&repo_id=531976789&response-content-disposition=attachment%3B%20filename%3DTrollInstaller.ipa&response-content-type=application%2Foctet-stream",
+		"down": "https://grepo.univer.se/_api/sites/1797053/downloads/53611/data",
 		"category": "Jailbreaks",
 		"description": "Semi jailbreak ipa signer for iOS 15.0-15.1.1",
 		"bundleID": "com.troll.trollstore"

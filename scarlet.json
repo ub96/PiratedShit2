@@ -94,5 +94,14 @@
 		"description": "Watch live TV & events for free with Channels.",
 		"bundleID": "com.channelsapp.channels"
 
+	}, {
+		"name": "FNaF Help Wanted",
+		"version": "1.0.5",
+		"icon": "https://play-lh.googleusercontent.com/8OV2MwksEzaWCvAF82URW3F63UZ9h4JRoYRB55WBvhCDeASLH_wsPjwkIhwXyUVmDnM",
+		"down": "https://ia804608.us.archive.org/5/items/five-nights-at-freddys-ipa/Five%20Nights%20At%20Freddy%27s%20HW%20%28v1.0.5%20v0.165%20unk%2064bit%20os120%20ok13%29-user_hidden.bfi.ipa",
+		"category": "Hacked Games",
+		"description": "free/pirated version of Fnaf HW",
+		"bundleID": "com.scottgames.helpwanted"
+
 	}]
 }

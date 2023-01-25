@@ -103,5 +103,14 @@
 		"description": "free/pirated version of Fnaf HW",
 		"bundleID": "com.scottgames.helpwanted"
 
+	}, {
+		"name": "Twitch++",
+		"version": "9.3.1",
+		"icon": "https://i.imgur.com/pcqVs0i.png",
+		"down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Twitch++.ipa",
+		"category": "Tweaked Apps",
+		"description": "Twitch Fox allows you to stream ad-free.",
+		"bundleID": "tv.twitch"
+
 	}]
 }

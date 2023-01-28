@@ -75,5 +75,15 @@
 		"category": "Hacked Games",
 		"description": "Free/Pirated version of fnaf sl",
 		"bundleID": "com.scottgames.sl"
+
+	}, {
+		"name": "Fnaf 4",
+		"version": "2.0",
+		"icon": "https://i.imgur.com/xTmgUgF.png",
+		"down": "https://download.cokernutx.com/ipadownload/Five-Nights-at-Freddys-4.ipa",
+		"category": "Hacked Games",
+		"description": "Free/Pirated version of fnaf sl",
+		"bundleID": "com.scottgames.sl"
+
 	}]
 }

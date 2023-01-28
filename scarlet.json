@@ -7,7 +7,7 @@
 	"bundleID": "com.osy.utmse"
 	
 	
-	}, {
+}, {
 	"name": "Itorrent",
 	"version": "6",
 	"icon": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
@@ -16,7 +16,7 @@
 	"description": "Torrent client for iOS 9.2+",
 	"bundleID": "com.gayscarlet.Itorrent"
 	
-	}, {
+}, {
 	"name": "Clip",
 	"version": "1",
 	"icon": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
@@ -25,7 +25,7 @@
 	"description": "Clipboard Manager for iOS 13+",
 	"bundleID": "com.rileytestut.Clip"
 	
-	}, {
+}, {
 	"name": "PPSSPP",
 	"version": "1",
 	"icon": "https://i.imgur.com/JP0Fncv.png",
@@ -34,7 +34,7 @@
 	"description": "Play PSP games on any iDevice in full HD",
 	"bundleID": "org.ppsspp.ppsspp"
 	
-	}, {
+}, {
 	"name": "Altstore",
 	"version": "1.5.1",
 	"icon": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
@@ -43,7 +43,7 @@
 	"description": "Application for self-signing",
 	"bundleID": "com.rileytestut.AltStore"
 	
-	}, {
+}, {
 	"name": "Trollinstaller",
 	"version": "1",
 	"icon": "https://pbs.twimg.com/media/FcezX4OX0AILqkL.jpg",
@@ -52,7 +52,7 @@
 	"description": "Semi jailbreak ipa signer for iOS 15.0-15.1.1",
 	"bundleID": "com.troll.trollstore"
 	
-	}, {
+}, {
 	"name": "Cheyote",
 	"version": "1.0",
 	"icon": "https://taimienphi.vn/tmp/cf/icon/cheyote-jailbreak.jpg",
@@ -61,7 +61,7 @@
 	"description": "Play PSP games on any iDevice in full HD",
 	"bundleID": "org.coolstar.Cheyote"
 	
-	}, {
+}, {
 	"name": "FNaF SL",
 	"version": "1.0",
 	"icon": "https://images.genius.com/ee415bb2c40ac06f18bc29248c065b8d.800x800x1.jpg",
@@ -70,7 +70,7 @@
 	"description": "Free/Pirated version of fnaf 4",
 	"bundleID": "com.scottgames.sisterlocation"
 	
-	}, {
+}, {
 	"name": "Duolingo++",
 	"version": "6.2.0",
 	"icon": "https://i.imgur.com/xTmgUgF.png",
@@ -79,7 +79,7 @@
 	"description": "Modded version of duolingo",
 	"bundleID": "com.duolingo.DuolingoMobile"
 	
-	}, {
+}, {
 	"name": "Channels",
 	"version": "1.8.0",
 	"icon": "https://i.imgur.com/qixCmDA.png",
@@ -88,7 +88,7 @@
 	"description": "Watch live TV & events for free with Channels.",
 	"bundleID": "com.channelsapp.channels"
 	
-	}, {
+}, {
 	"name": "FNaF Help Wanted",
 	"version": "1.0.5",
 	"icon": "https://play-lh.googleusercontent.com/8OV2MwksEzaWCvAF82URW3F63UZ9h4JRoYRB55WBvhCDeASLH_wsPjwkIhwXyUVmDnM",
@@ -97,7 +97,7 @@
 	"description": "free/pirated version of Fnaf HW",
 	"bundleID": "com.scottgames.helpwanted"
 	
-	}, {
+}, {
 	"name": "Twitch++",
 	"version": "9.3.1",
 	"icon": "https://i.imgur.com/pcqVs0i.png",

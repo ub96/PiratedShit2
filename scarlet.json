@@ -1,110 +1,79 @@
-"name": "UTM SE",	
-	"version": "4",
-	"icon": "https://getutm.app/assets/appicon.png",
-	"down": "https://github.com/utmapp/UTM/releases/download/v4.1.5/UTM.SE.ipa",
-	"category": "Emulators",
-	"description": "A non-jailbreak and slower version of UTM.",
-	"bundleID": "com.osy.utmse"
-	
-	
-}, {
-	"name": "Itorrent",
-	"version": "6",
-	"icon": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
-	"down": "https://dl.dropboxusercontent.com/s/y7gz65odo5104rm/iTorrent_v1.8.4-dev.3.ipa?dl=0",
-	"category": "Tweaked Apps",
-	"description": "Torrent client for iOS 9.2+",
-	"bundleID": "com.gayscarlet.Itorrent"
-	
-}, {
-	"name": "Clip",
-	"version": "1",
-	"icon": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
-	"down": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
-	"category": "Tweaked Apps",
-	"description": "Clipboard Manager for iOS 13+",
-	"bundleID": "com.rileytestut.Clip"
-	
-}, {
-	"name": "PPSSPP",
-	"version": "1",
-	"icon": "https://i.imgur.com/JP0Fncv.png",
-	"down": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-	"category": "Emulators",
-	"description": "Play PSP games on any iDevice in full HD",
-	"bundleID": "org.ppsspp.ppsspp"
-	
-}, {
-	"name": "Altstore",
-	"version": "1.5.1",
-	"icon": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-	"down": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
-	"category": "Tweaked Apps",
-	"description": "Application for self-signing",
-	"bundleID": "com.rileytestut.AltStore"
-	
-}, {
-	"name": "Trollinstaller",
-	"version": "1",
-	"icon": "https://pbs.twimg.com/media/FcezX4OX0AILqkL.jpg",
-	"down": "https://grepo.univer.se/_api/sites/1797053/downloads/53611/data",
-	"category": "Jailbreaks",
-	"description": "Semi jailbreak ipa signer for iOS 15.0-15.1.1",
-	"bundleID": "com.troll.trollstore"
-	
-}, {
-	"name": "Cheyote",
-	"version": "1.0",
-	"icon": "https://taimienphi.vn/tmp/cf/icon/cheyote-jailbreak.jpg",
-	"down": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/50805/data",
-	"category": "Jailbreaks",
-	"description": "Play PSP games on any iDevice in full HD",
-	"bundleID": "org.coolstar.Cheyote"
-	
-}, {
-	"name": "FNaF SL",
-	"version": "1.0",
-	"icon": "https://images.genius.com/ee415bb2c40ac06f18bc29248c065b8d.800x800x1.jpg",
-	"down": "https://grepo.univer.se/_api/sites/1797053/downloads/53717/data",
-	"category": "Hacked Games",
-	"description": "Free/Pirated version of fnaf 4",
-	"bundleID": "com.scottgames.sisterlocation"
-	
-}, {
-	"name": "Duolingo++",
-	"version": "6.2.0",
-	"icon": "https://i.imgur.com/xTmgUgF.png",
-	"down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Duolingo++.ipa",
-	"category": "Tweaked Apps",
-	"description": "Modded version of duolingo",
-	"bundleID": "com.duolingo.DuolingoMobile"
-	
-}, {
-	"name": "Channels",
-	"version": "1.8.0",
-	"icon": "https://i.imgur.com/qixCmDA.png",
-	"down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Channels.ipa",
-	"category": "Tweaked Apps",
-	"description": "Watch live TV & events for free with Channels.",
-	"bundleID": "com.channelsapp.channels"
-	
-}, {
-	"name": "FNaF Help Wanted",
-	"version": "1.0.5",
-	"icon": "https://play-lh.googleusercontent.com/8OV2MwksEzaWCvAF82URW3F63UZ9h4JRoYRB55WBvhCDeASLH_wsPjwkIhwXyUVmDnM",
-	"down": "https://ia804608.us.archive.org/5/items/five-nights-at-freddys-ipa/Five%20Nights%20At%20Freddy%27s%20HW%20%28v1.0.5%20v0.165%20unk%2064bit%20os120%20ok13%29-user_hidden.bfi.ipa",
-	"category": "Hacked Games",
-	"description": "free/pirated version of Fnaf HW",
-	"bundleID": "com.scottgames.helpwanted"
-	
-}, {
-	"name": "Twitch++",
-	"version": "9.3.1",
-	"icon": "https://i.imgur.com/pcqVs0i.png",
-	"down": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Twitch++.ipa",
-	"category": "Tweaked Apps",
-	"description": "Twitch Fox allows you to stream ad-free.",
-	"bundleID": "tv.twitch
+{
+	"META": {
+		"repoName": "Gay repo",
+		"repoIcon": "https://openseauserdata.com/files/3ffa7249ab8bdc6d4935ba03930aeca1.png"
+	},
+	"Tweaked": [{
+		"name": "UTM SE",
+		"version": "4",
+		"icon": "https://getutm.app/assets/appicon.png",
+		"down": "https://github.com/utmapp/UTM/releases/download/v4.1.5/UTM.SE.ipa",
+		"category": "Emulators",
+		"description": "A non-jailbreak and slower version of UTM.",
+		"bundleID": "com.osy.utmse"
 
+
+	}, {
+		"name": "Itorrent",
+		"version": "6",
+		"icon": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
+		"down": "https://dl.dropboxusercontent.com/s/y7gz65odo5104rm/iTorrent_v1.8.4-dev.3.ipa?dl=0",
+		"category": "Tweaked Apps",
+		"description": "Torrent client for iOS 9.2+",
+		"bundleID": "com.gayscarlet.Itorrent"
+
+	}, {
+		"name": "Clip",
+		"version": "1",
+		"icon": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+		"down": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
+		"category": "Tweaked Apps",
+		"description": "Clipboard Manager for iOS 13+",
+		"bundleID": "com.rileytestut.Clip"
+
+	}, {
+		"name": "PPSSPP",
+		"version": "1",
+		"icon": "https://i.imgur.com/JP0Fncv.png",
+		"down": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+		"category": "Emulators",
+		"description": "Play PSP games on any iDevice in full HD",
+		"bundleID": "org.ppsspp.ppsspp"
+
+	}, {
+		"name": "Altstore",
+		"version": "1.5.1",
+		"icon": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+		"down": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
+		"category": "Tweaked Apps",
+		"description": "Application for self-signing",
+		"bundleID": "com.rileytestut.AltStore"
+
+	}, {
+		"name": "Trollinstaller",
+		"version": "1",
+		"icon": "https://pbs.twimg.com/media/FcezX4OX0AILqkL.jpg",
+		"down": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/531976789/786afe90-f28e-475a-9cd8-e63a2a7b30a2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230122T191425Z&X-Amz-Expires=300&X-Amz-Signature=23c2d0285691ee56fef6dc2bc608f531999aed65faf6ccb25ced572142c74702&X-Amz-SignedHeaders=host&actor_id=113331090&key_id=0&repo_id=531976789&response-content-disposition=attachment%3B%20filename%3DTrollInstaller.ipa&response-content-type=application%2Foctet-stream",
+		"category": "Jailbreaks",
+		"description": "Semi jailbreak ipa signer for iOS 15.0-15.1.1",
+		"bundleID": "com.troll.trollstore"
+
+	}, {
+		"name": "Cheyote",
+		"version": "1.0",
+		"icon": "https://taimienphi.vn/tmp/cf/icon/cheyote-jailbreak.jpg",
+		"down": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/50805/data",
+		"category": "Jailbreaks",
+		"description": "Play PSP games on any iDevice in full HD",
+		"bundleID": "org.coolstar.Cheyote"
+
+	}, {
+		"name": "FNaF 4",
+		"version": "2.0",
+		"icon": "https://static.wikia.nocookie.net/fivenightsatfreddys/images/6/6c/Fnaf_4_desktop_icon.jpg/revision/latest?cb=20150724183458",
+		"down": "altstore://install?url=https://download.cokernutx.com/ipadownload/Five-Nights-at-Freddys-4.ipa",
+		"category": "Hacked Games",
+		"description": "Free/Pirated version of fnaf 4",
+		"bundleID": "com.scottgames.fn4"
 	}]
 }

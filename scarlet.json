@@ -62,7 +62,7 @@
 		"name": "Cheyote",
 		"version": "1.0",
 		"icon": "https://taimienphi.vn/tmp/cf/icon/cheyote-jailbreak.jpg",
-		"down": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/50805/data",
+		"down": "http://cheyote.io/assets/IPA/Cheyote.ipa",
 		"category": "Jailbreaks",
 		"description": "Play PSP games on any iDevice in full HD",
 		"bundleID": "org.coolstar.Cheyote"

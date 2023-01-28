@@ -62,18 +62,18 @@
 		"name": "Cheyote",
 		"version": "1.0",
 		"icon": "https://taimienphi.vn/tmp/cf/icon/cheyote-jailbreak.jpg",
-		"down": "http://cheyote.io/assets/IPA/Cheyote.ipa",
+		"down": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/50805/data",
 		"category": "Jailbreaks",
-		"description": "Play PSP games on any iDevice in full HD",
+		"description": "Jailbreak iOS 15-15.1.1",
 		"bundleID": "org.coolstar.Cheyote"
 
 	}, {
-		"name": "FNaF 4",
-		"version": "2.0",
-		"icon": "https://static.wikia.nocookie.net/fivenightsatfreddys/images/6/6c/Fnaf_4_desktop_icon.jpg/revision/latest?cb=20150724183458",
+		"name": "FNaF SL",
+		"version": "1.0",
+		"icon": "https://images.genius.com/ee415bb2c40ac06f18bc29248c065b8d.800x800x1.jpg",
 		"down": "altstore://install?url=https://download.cokernutx.com/ipadownload/Five-Nights-at-Freddys-4.ipa",
 		"category": "Hacked Games",
-		"description": "Free/Pirated version of fnaf 4",
-		"bundleID": "com.scottgames.fn4"
+		"description": "Free/Pirated version of fnaf sl",
+		"bundleID": "com.scottgames.sl"
 	}]
 }

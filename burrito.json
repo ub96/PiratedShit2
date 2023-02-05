@@ -50,5 +50,25 @@
 		"category": "Tweaked Apps",
 		"description": "appdb is the successor of our old website named appaddict. appdb was formed when ex staff were concerned for the security of the users of our old website. appdb was setup using a new perspective of simplicity yet effectiveness. This formed our app-less approach and simple interface to install apps.",
 		"bundleID": "it.ned.appdb-ios"
+	
+}, {
+		"name": "unc0ver",
+		"version": "4.0.0",
+		"icon": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+		"down": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.0.3/Undecimus-v4.0.3.ipa",
+		"dev" : "Pwn20wnd & Sam Bingner",
+		"category": "Jailbreaks",
+		"description": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+		"bundleID": "science.xnu.undecimus"
+	
+}, {
+		"name": "Sileo Demo",
+		"version": "1.4.1",
+		"icon": "https://pbs.twimg.com/profile_images/1019627376857280512/laMqxYhl_400x400.jpg",
+		"down": "https://electrarepo64.coolstar.org/ipas/Sileo%20Demo%201.4.1.ipa",
+		"dev" : "Sileo Team",
+		"category": "Jailbreaks",
+		"description": "Sileo is a fast, beautiful, powerful and efficient APT Package Manager designed for jailbroken devices running iOS 11 and up with focus on being up to date and most importantly reliable.",
+		"bundleID": "org.coolstar.SileoDemo"
 	}]
 }

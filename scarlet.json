@@ -8,6 +8,7 @@
 		"version": "4",
 		"icon": "https://getutm.app/assets/appicon.png",
 		"down": "https://github.com/utmapp/UTM/releases/download/v4.1.5/UTM.SE.ipa",
+		"dev" : "osy86",
 		"category": "Emulators",
 		"description": "A non-jailbreak and slower version of UTM.",
 		"bundleID": "com.osy.utmse"
@@ -27,6 +28,7 @@
 		"version": "1",
 		"icon": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
 		"down": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
+		"dev" : "Riley Testut",
 		"category": "Tweaked Apps",
 		"description": "Clipboard Manager for iOS 13+",
 		"bundleID": "com.rileytestut.Clip"
@@ -36,6 +38,7 @@
 		"version": "1",
 		"icon": "https://i.imgur.com/JP0Fncv.png",
 		"down": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+		"dev" : "Quarksources team",
 		"category": "Emulators",
 		"description": "Play PSP games on any iDevice in full HD",
 		"bundleID": "org.ppsspp.ppsspp"
@@ -45,6 +48,7 @@
 		"version": "1.5.1",
 		"icon": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
 		"down": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
+		"dev" : "Riley testut",
 		"category": "Tweaked Apps",
 		"description": "Application for self-signing",
 		"bundleID": "com.rileytestut.AltStore"
@@ -54,6 +58,7 @@
 		"version": "1",
 		"icon": "https://pbs.twimg.com/media/FcezX4OX0AILqkL.jpg",
 		"down": "https://grepo.univer.se/_api/sites/1797053/downloads/53611/data",
+		"dev" : "linus henze and opa334",
 		"category": "Jailbreaks",
 		"description": "Semi jailbreak ipa signer for iOS 15.0-15.1.1",
 		"bundleID": "com.troll.trollstore"
@@ -63,6 +68,7 @@
 		"version": "1.0",
 		"icon": "https://taimienphi.vn/tmp/cf/icon/cheyote-jailbreak.jpg",
 		"down": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/50805/data",
+		"dev" : "Coolstar",
 		"category": "Jailbreaks",
 		"description": "Jailbreak iOS 15-15.1.1",
 		"bundleID": "org.coolstar.Cheyote"
@@ -72,6 +78,7 @@
 		"version": "2.0",
 		"icon": "https://images.genius.com/ee415bb2c40ac06f18bc29248c065b8d.800x800x1.jpg",
 		"down": "https://archive.org/download/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa",
+		"dev" : "Scott cawthon and Clickteam",
 		"category": "Hacked Games",
 		"description": "Free/Pirated version of fnaf sl",
 		"bundleID": "com.scottgames.sl"
@@ -81,6 +88,7 @@
 		"version": "1.4b5",
 		"icon": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
 		"down": "https://cdn.altstore.io/file/altstore/apps/delta/1_4_b5.ipa",
+		"dev" : "Riley testut",
 		"category": "Emulators",
 		"description": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
 		"bundleID": "com.rileytestut.Delta.Beta"

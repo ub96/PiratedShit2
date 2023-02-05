@@ -92,6 +92,45 @@
 		"category": "Emulators",
 		"description": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
 		"bundleID": "com.rileytestut.Delta.Beta"
-		
+			
+}, {
+		"name": "UTM",
+		"version": "0.1",
+		"icon": "https://getutm.app/assets/appicon.png",
+		"down": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
+		"dev" : "osy86",
+		"category": "Emulators",
+		"description": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
+		"bundleID": "com.osy86.UTM"
+	
+}, {
+		"name": "appdb",
+		"version": "1.0.4",
+		"icon": "https://static.appdb.to/images/cydia-1900000538-icon.png",
+		"down": "https://github.com/n3d1117/appdb/releases/download/v1.0.4/appdb_1.0.4.ipa",
+		"dev" : "n3d1117",
+		"category": "Tweaked Apps",
+		"description": "appdb is the successor of our old website named appaddict. appdb was formed when ex staff were concerned for the security of the users of our old website. appdb was setup using a new perspective of simplicity yet effectiveness. This formed our app-less approach and simple interface to install apps.",
+		"bundleID": "it.ned.appdb-ios"
+	
+}, {
+		"name": "RobloxOOF",
+		"version": "2.560.362",
+		"icon": "https://static.wikia.nocookie.net/logopedia/images/d/d6/Roblox_app_icon_2022.svg/revision/latest/scale-to-width-down/250?cb=20220319140506",
+		"down": "https://github.com/ub96/PiratedShit2/releases/download/Oof/roblox.ipa",
+		"category": "Hacked Games",
+		"description": "Roblox with the oof sound",
+		"bundleID": "com.roblox.robloxmobile"
+	
+}, {
+	    	"name": "Sister Location",
+	   	"version": "2.0",
+	    	"icon": "https://raw.githubusercontent.com/ub96/maimplace1/main/download.jpg",
+	    	"down": "https://archive.org/download/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa",
+	   	"dev": "Scott Cawthon",
+	   	"banner": "https://raw.githubusercontent.com/ub96/maimplace1/main/download%20(1).jpg",
+	    	"category": "Tweaked Apps",
+	   	"description": "FNAF SL for free!",
+	   	"bundleID": "com.scottgames.sisterlocation",
 	}]
 }

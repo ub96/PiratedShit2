@@ -132,5 +132,24 @@
 	    	"category": "Tweaked Apps",
 	   	"description": "FNAF SL for free!",
 	   	"bundleID": "com.scottgames.sisterlocation",
+	
+}, {
+	    	"name": "Insta Spring",
+	   	"version": "1.0",
+	    	"icon": "https://raw.githubusercontent.com/ub96/MaiMPlace4/main/3A968F17-3566-4F78-AA4D-23E88CBCA165.jpeg",
+	    	"down": "https://github.com/ub96/MaiMPlace4/blob/main/Instaspring.ipa?raw=true",
+	    	"category": "Jailbreaks",
+	   	"description": "Respring iphone with an app",
+	   	"bundleID": "com.opa334.instaspring",
+	
+}, {
+		"name": "FilzaEscaped16",
+		"version": "1.0",
+		"icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/b7/9e/49/b79e498b-40a5-4a7f-c7f6-1daf43937ce9/source/512x512bb.jpg",
+		"down": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/54671/data",
+		"dev" : "TIGISoftware",
+		"category": "Jailbreaks",
+		"description": "Full Root file manager for ios 15.0-15.7.2 16.0-16.1.2",
+		"bundleID": "com.tigisoftware.filza16"
 	}]
 }

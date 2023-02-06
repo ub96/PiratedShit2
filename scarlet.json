@@ -151,5 +151,15 @@
 		"category": "Jailbreaks",
 		"description": "Full Root file manager for ios 15.0-15.7.2 16.0-16.1.2",
 		"bundleID": "com.tigisoftware.filza16"
+	
+}, {
+		"name": "Xina Beta",
+		"version": "2",
+		"icon": "https://iphonetweak.fr/images/2022/12/xina-jailbreak-icon.png",
+		"down": "https://github.com/jacksight/xina520_official_jailbreak/releases/download/v1.1.6.2/XinaA12.1.1.6.2.ipa",
+		"dev" : "jacksight",
+		"category": "Jailbreaks",
+		"description": "Jailbreak for ios 15-15.1.1",
+		"bundleID": "com.jacksight.xinaa12"
 	}]
 }

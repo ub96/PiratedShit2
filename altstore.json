@@ -1,7 +1,7 @@
 {
   "name": "AltHaven",
-  "identifier": "com.kenny69.Althaven",
-  "sourceURL": "https://raw.githubusercontent.com/kenny886/pirated-altrepos/main/altstore.json",
+  "identifier": "com.ub96.Althaven",
+  "sourceURL": "https://bit.ly/althaven",
   "apps": [
     {
       "name": "AltStore",

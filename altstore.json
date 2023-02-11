@@ -214,6 +214,31 @@
         "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
         "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
       ]
+    },
+    {
+      "name": "Filza Escaped for ios 15-16",
+      "bundleIdentifier": "com.ub96.scarlet",
+      "subtitle": "Browse iOS File System",
+      "developerName": "TIGISoftware",
+      "version": "2",
+      "versionDate": "2023-02-11T12:30:00-07:00",
+      "versionDescription": "This is the first version!",
+      "downloadURL": "https://appstore-plus.univer.se/_api/sites/1761126/downloads/54671/data",
+      "localizedDescription": "Root file MANAGER FOR IOS 15 UP TO IOS 16.1.2",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/f1/26/6f/f1266f99-4dbd-ac41-3bb0-236cc93e335e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
+      "tintColor": "53D1DF",
+      "size": 462771,
+      "beta": true,
+      "permissions": [
+        {
+          "type": "Root Access",
+          "usageDescription": "Allows filza to display files"
+        }
+      ],
+      "screenshotURLs": [
+        "http://moreinfo.thebigboss.org/moreinfo/filzafilemanager1.jpg",
+        "http://moreinfo.thebigboss.org/moreinfo/filzafilemanager6.jpg"
+      ]
     }
   ],
   "news": [

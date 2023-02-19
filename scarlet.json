@@ -197,7 +197,7 @@
 		"version": "3.2.1",
 		"icon": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png","tintColor":"41cdff",
 		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
-		"dev" : "Leminlimez",
+		"dev" : "OatmealDome",
 		"category": "Emulators",
 		"description": "DolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.",
 		"bundleID": "me.oatmealdome.dolphinios-njb"

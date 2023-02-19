@@ -201,15 +201,5 @@
 		"category": "Emulators",
 		"description": "DolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.",
 		"bundleID": "me.oatmealdome.dolphinios-njb"
-	
-}, {
-		"name": "Reddit++",
-		"version": "2020.12.0",
-		"icon": "https://www.marnet.ru/wp-content/uploads/2018/05/Reddit.png",
-		"down": "https://dl.orangedox.com/PandaApp/11?dl=1",
-		"dev" : "syto203",
-		"category": "Tweaked Apps",
-		"description": "This tweaked version allows the user to view deleted posts retrieved by pushshift.io. and removes Ads.",
-		"bundleID": "com.reddit.Reddit"
-	}]
+	}
 }

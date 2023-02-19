@@ -171,5 +171,25 @@
 		"category": "Hacked Games",
 		"description": "Features:-Level 13-10000 coin-1000000 gems-Challenger i",
 		"bundleID": "com.supercell.scroll"
+	
+}, {
+		"name": "Instagram++",
+		"version": "123.0",
+		"icon": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
+		"down": "https://dl.orangedox.com/PandaApp/4?dl=1",
+		"dev" : "Rocket Team",
+		"category": "Tweaked Apps",
+		"description": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
+		"bundleID": "com.instagram.apprefresh"
+	
+}, {
+		"name": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.4/Cowabunga.ipa",
+		"version": "8.0.4",
+		"icon": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.4/Cowabunga.ipa",
+		"dev" : "Leminlimez",
+		"category": "Jailbreaks",
+		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
+		"bundleID": "com.leminlimez.cowabunga"
 	}]
 }

@@ -194,7 +194,7 @@
 	
 }, {
 		"name": "Dolphinios",
-		"version": "8.0.4",
+		"version": "3.2.1",
 		"icon": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png","tintColor":"41cdff",
 		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
 		"dev" : "Leminlimez",

@@ -221,5 +221,15 @@
 		"category": "Tweaked Apps",
 		"description": "Клиент VK с новым твиком VK++ с огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы, возможностью изменять цвета и ставить фотографии в меню и диалогах и многим другим.\n\nP.S. Много функций может не работать, твик давно не обновляли.",
 		"bundleID": "com.vk.vkclient.vkm.refresh"
+	
+}, {
+		"name": "iPoGo",
+		"version": "2.8.4",
+		"icon": "2wCEAAoHCBUWEhgVFRIYGRgVHBgYGRwYGBgYGhkZGBoZGhoZGhgcIS4lHCErHxgYJzgnKy8xNTU1HCQ7QDs0Py40NTEBDAwMEA8QHxISHjQnJSE0NDQxMTQ0NDY0NDQ0NDQ0MTQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0Mf",
+		"down": "https://ipogo.app/download/ipogo-2.8.4.ipa",
+		"dev" : "iPoGo Team",
+		"category": "Hacked Games",
+		"description": "IpoGo the most avanced spoofing app",
+		"bundleID": "com.niantic.pokemongo"
 	}]
 }
